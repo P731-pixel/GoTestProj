@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/P731-pixel/GoTestProj/testModule"
+	"github.com/P731-pixel/GoTestProj/testPackages/testModule"
 )
 
 func main() {
